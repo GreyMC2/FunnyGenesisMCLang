@@ -50,180 +50,180 @@ menu:
     avian:
       featherweight:
         title: "Featherweight"
-        description: "You fall as gently to the ground as a feather would, unless you shift."
+        description: "Reduces the user's weight to a minimum, granting them the ability to move swiftly and agilely, and potentially allowing them to jump great distances or even float momentarily."
       tailwind:
         title: "Tailwind"
-        description: "You are a little quicker on foot than others."
+        description: "Channels the force of a powerful wind at the user's back, significantly increasing their movement speed and allowing them to outrun or swiftly approach foes."
       oviparous:
         title: "Oviparous "
-        description: "Whenever you wake up in the morning, you lay an egg."
+        description: "Grants the user the power to lay magical eggs that hatch into various creatures or manifestations, each possessing unique abilities or properties, and potentially allowing the user to control and command these creatures for a limited time."
       vegetarian:
         title: "Vegetarian"
-        description: "You can't digest any meat."
+        description: "This ability allows the user to sustain themselves by consuming only plant-based foods, granting them heightened vitality and a special connection with nature, but consuming non-plant-based foods or taking damage may have adverse effects, such as temporarily reducing health or causing debuffs."
       fresh_air:
         title: "Fresh Air"
-        description: "When sleeping, your bed needs to be at an altitude of at least 100 blocks."
+        description: "xposure to polluted environments reduces health and inflicts debuffs, while clean air provides slight restoration and enhanced resistance."
 
     arachnid:
       spiderman:
         title: "SpiderMan"
-        description: "You can climb up walls, but not when its raining (hold shift)."
+        description: "Grants the user the extraordinary abilities of a spider, including the capability to climb walls, shoot webs for swinging and combat, and enhanced agility and reflexes."
       weaver:
         title: "Weaver"
-        description: "You hinder your foes with cobwebs upon attacking them."
+        description: "Bestows the power to manipulate threads of energy or matter, allowing the user to weave intricate patterns and constructs for various purposes, such as creating barriers, ensnaring opponents, or shaping the environment to their advantage."
       squishable:
         title: "Fragile"
-        description: "You have 3 less hearts."
+        description: "Decreases the user's maximum health or hearts, making them more vulnerable to damage and reducing their overall survivability in battles or hazardous situations."
       tiny_carnivore:
         title: "Tiny Carnivor"
-        description: "You can only eat meat."
+        description: ": Restricts the user to a diet limited to small portions of meat or specific prey, granting them certain advantages, such as increased agility or predator-like senses, but suffering penalties or weakened abilities if they consume non-meat or larger food items."
 
     elytrian:
       winged:
         title: "Winged"
-        description: "You have Elytra wings without needing to equip any (tap shift when in air)."
+        description: "Grants the user a pair of functional wings, allowing them to fly or glide through the air, providing aerial advantages in mobility and accessing elevated areas, but also making them susceptible to certain hazards or attacks while airborne."
 
       gift_of_the_winds:
         title: "Gift of the Winds"
-        description: "Every 30 seconds, you can launch yourself 20 blocks in the air."
+        description: "Empowers the user with the gift of wind manipulation, providing enhanced control and speed while airborne, enabling them to perform impressive aerial maneuvers, and potentially allowing temporary bursts of flight or gliding."
 
       claustrophobia:
         title: "Calustrophobia"
-        description: "Being somewhere with a low ceiling for too long will weaken you."
+        description: "Afflicts the user with an intense fear of confined spaces, causing discomfort and panic when trapped or enclosed, potentially leading to impaired movement, reduced combat effectiveness, and the need to find open spaces to regain composure."
 
       need_for_mobility:
         title: "Need for Mobility"
-        description: "You cannot wear any heavy armour with protection values higher than chainmail."
+        description: "Grants the user an insatiable desire for speed and agility, but when wearing heavy armor, it hampers their movements, causing reduced mobility and agility, encouraging the use of lighter armors for optimal performance."
 
       brittle_bones:
         title: "Brittle Bones"
-        description: "You take more damage from falling and flying into blocks."
+        description: "Afflicts the user with fragile bones, making them more susceptible to fractures and injuries from physical impacts, requiring cautious movements and strategic combat tactics to avoid excessive damage."
 
       aerial_combatant:
         title: "Aerial Combatant"
-        description: "You deal substantially more damage while in Elytra flight."
+        description: "Specializes in combat techniques suited for aerial engagements, excelling in mid-air battles, performing agile maneuvers, and dealing devastating attacks while airborne, but may face challenges and reduced combat effectiveness in grounded encounters."
 
     shulk:
       hoarder:
         title: "Hoarder(/shulker open, or press F to open) "
-        description: "You have 9 extra inventory slots that you keep upon death."
+        description: "Gives the user an instinctive urge to collect and hoard various items, granting them the ability to carry more in their inventory, but also making them slower or less agile due to the burden of their possessions, and may struggle to part with valuable items."
 
       sturdy_skin:
         title: "Sturdy Skin"
-        description: "Your skin has natural protection."
+        description: "Bestows the user with exceptionally resilient and thick skin, providing enhanced natural armor against physical attacks, but may result in reduced sensitivity or susceptibility to certain magical effects or sensory stimuli."
 
       strong_arms:
         title: "Strong Arms"
-        description: "You can break natural stones without a pickaxe."
+        description: "Endows the user with immensely powerful arms, granting them the ability to mine blocks with a silk touch effect, allowing them to collect blocks in their original form without breaking them, but may cause fatigue or increased resource consumption due to the immense strength required."
 
       unweildy:
         title: "Unwieldy"
-        description: "You cannot hold a shield."
+        description: "Renders the user's arms unwieldy and difficult to control, negatively impacting accuracy and reducing attack speed, but potentially provides a slight boost to strength due to the constant resistance required in wielding weapons."
 
       large_appetite:
         title: "Large Appetite"
-        description: "You exhaust much quicker than others."
+        description: "Grants the user an insatiable hunger, requiring them to consume more food to maintain their health and energy, but may provide temporary bursts of strength or heightened abilities after consuming large quantities of food."
 
     enderian:
       teleportation:
         title: "Teleportation"
-        description: "You have an infinite ender pearl that deals no damage."
+        description: " Allows the user to instantly transport themselves from one location to another, making them highly elusive and granting strategic advantages in combat or travel, but frequent or reckless use may lead to exhaustion or teleportation mishaps."
 
       hydrophobia:
         title: "Hydrophobia"
-        description: "You take damage while in contact with water."
+        description: "Inflicts damage or debuffs on the user when they come into contact with water, making it hazardous for them to be submerged or exposed to aquatic environments."
 
       delicate_touch:
         title: "Delicate Touch"
-        description: "You have silk touch hands."
+        description: "Grants the user a gentle and precise touch, allowing them to handle fragile objects or perform intricate tasks with finesse and accuracy, but may lead to reduced strength or effectiveness in heavy-handed combat situations."
 
       slender_body:
         title: "Slender Body"
-        description: "You can reach farther than everyone due to your long arms, but you are too weak to mine farther away."
+        description: "Provides the user with a slender body, granting increased ranged attack damage due to enhanced precision and agility, but maintaining normal mining abilities without any specific bonus or penalty related to mining tasks."
 
       bearer_of_pearls:
         title: "Bearer of Pearls"
-        description: "You always drop 0-2 ender pearls upon death."
+        description: "Upon the user's death, they drop a set of valuable pearls or pearl-like items, offering a unique chance for other players or entities to collect these rare items as a reward for defeating them."
 
       pumpkin_hate:
         title: "Scared of Gourds"
-        description: "You are afraid of pumpkins. For a good reason."
+        description: "Causes the user to harbor an intense aversion or negative reaction towards pumpkins, leading to reduced effectiveness or increased vulnerability when in close proximity to pumpkins or using pumpkin-related items or abilities."
 
 
     merling:
       gills:
         title: "Gills"
-        description: "You can ONLY breathe underwater, when raining, you can breathe on land for a short time."
+        description: "Grants the user the ability to breathe underwater and remain submerged for extended periods, but also enables them to breathe freely when it rains, allowing them to explore underwater environments and take advantage of rainy weather without needing air."
 
       wet_eyes:
         title: "Wet Eyes"
-        description: "Your vision underwater is nearly perfect."
+        description: "Provides the user with eyes that produce a constant layer of moisture, granting them enhanced vision in underwater or foggy environments, but making them more vulnerable to certain visual impairments, such as bright lights or dusty conditions."
 
       fins:
         title: "Fins"
-        description: "Your underwater speed is increased."
+        description: "Bestows the user with sleek fins on their limbs, allowing them to swim with exceptional speed and agility, but may hinder movements on land or in non-aquatic environments due to the specialized adaptations for underwater propulsion."
 
       aqua_affinity:
         title: "Aqua Affinity"
-        description: "You may break blocks underwater as other do on land."
+        description: "Enhances the user's affinity for water, granting them the ability to breathe underwater, swim effortlessly at increased speeds, and manipulate water-based elements for offensive and defensive purposes."
 
       like_water:
         title: "Like Water"
-        description: "When underwater, you do not sink to the ground unless you want to."
+        description: "Enables the user to harmonize with water, becoming virtually one with aquatic environments, allowing them to move gracefully through water, harness its energy for healing or defense, and gain resistance to drowning or water-related hazards."
 
     blazeborn:
       born_from_flames:
         title: "Born from Flames"
-        description: "Your natural spawn is in the Nether."
+        description: "The user has a unique origin tied to the Nether, causing them to spawn in the Nether dimension rather than the Overworld, granting them initial access to Nether resources and creatures, but may also face heightened dangers and challenges associated with the Nether's hostile environment."
 
       burning_wrath:
         title: "Burning Wrath"
-        description: "When on fire, you deal additional damage."
+        description: "Infuses the user with fiery rage, empowering their attacks with burning damage, causing enemies struck by their blows to be engulfed in flames, potentially leading to additional damage over time, but the intense fury may also make the user more susceptible to negative status effects or uncontrollable outbursts."
 
       fire_immunity:
         title: "Fire Immunity"
-        description: "You are immune to all types of fire damage."
+        description: "Grants the user complete immunity to fire damage, rendering them impervious to burns, scorching, and heat-based attacks, allowing them to traverse fiery environments unharmed and negating the effects of fire-related hazards or abilities."
 
       to_hot_for_water:
         title: "To Hot for.. Uh.. Ya.. Water?"
-        description: "You get damaged while in water."
+        description: "The user's body generates an intense heat, making them too hot for water to come into contact with their skin, causing water to evaporate instantly upon touching them, potentially granting them an advantage in wet or rainy conditions, but also making it difficult for them to douse flames or extinguish fires using water-based methods."
 
       hotblooded:
         title: "Hotblooded"
-        description: "Due to your hot body, venom burns up, making you immune to poison and hunger status effects."
+        description: "Grants the user complete immunity to poisoning effects, rendering them impervious to toxic substances, and also makes them immune to the effects of hunger, allowing them to remain satiated and healthy without the need for food."
 
       opposite_forces:
         title: "Opposite Forces"
-        description: "You are much weaker in colder biomes and at high altitudes."
+        description: "You are weaker in cold biomes due to the opposing forces and also feel less comfortable in high places due to the lack of warmth."
 
       flames_of_nether:
         title: "Flames of the Nether"
-        description: "Upon hitting someone, they are set on fire."
+        description: "As one who harnesses the Flames of the Nether, you wield the power to conjure and manipulate hellish fire, granting you immunity to fire damage, the ability to engulf enemies in blazing infernos, and to traverse fiery landscapes without harm, but may experience diminished power or discomfort in cold or high-altitude environments due to the opposing nature of these flames."
 
     phantom:
       translucent:
         title: "Translucent"
-        description: "Your skin is translucent."
+        description: "The user gains the ability to become partially or entirely translucent, allowing them to fade from sight and blend into their surroundings, granting increased stealth and evasion, but the user may become more susceptible to certain magical or ethereal attacks due to their semi-ethereal nature."
 
       not_vampire:
         title: "Not Really a Vampire"
-        description: "You take damage from sunlight."
+        description: "The user is susceptible to the harmful effects of sunlight, suffering damage or debilitating effects when exposed to direct sunlight for extended periods, necessitating the use of protective gear or seeking shade during daylight hours to avoid its negative consequences."
 
       phasing:
         title: "Phasing(Press F to activate, or use item)"
-        description: "You can switch between human and phantom form at will, but only while you are saturated enough to sprint."
+        description: "The user gains the power to phase through solid objects and barriers at will, granting them the ability to move through walls and obstacles, making them highly elusive and granting strategic advantages in stealth and evasion, but maintaining the phasing state for too long may cause disorientation or leave the user vulnerable to attacks while intangible."
 
       fast_metabolism:
         title: "Fast Metabolism"
-        description: "While in Phantom Form, you loose twice as much hunger."
+        description: "The user's fast metabolism causes them to lose hunger at twice the normal rate when phasing through objects and barriers, as the heightened energy consumption while using the phasing ability expends more of their body's resources, making them more reliant on frequent food consumption to sustain both their rapid energy regeneration and phasing maneuvers effectively."
 
       fragile_creature:
         title: "Fragile Creature"
-        description: "You have 3 less hearts."
+        description: "The user is a delicate and fragile being, possessing fewer hearts or health points than others, making them more vulnerable to damage and necessitating caution in combat situations, but they may compensate for this vulnerability with heightened agility or specialized abilities."
 
       invisibility:
         title: "Invisibility"
-        description: "While phantomized, you become fully invisible."
+        description: "The user gains the power of invisibility, becoming completely unseen by the naked eye when phasing through objects or in their intangible state, allowing them to move unnoticed and granting them a significant advantage in stealth and surprise attacks while they are in the phantom or phasing form. However, their visibility returns once they solidify or exit the phasing state, requiring strategic timing to maintain the element of surprise."
 
     feline:
       nine_lives:
