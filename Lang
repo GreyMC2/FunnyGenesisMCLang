@@ -228,91 +228,91 @@ menu:
     feline:
       nine_lives:
         title: "9 Lives"
-        description: "You have 9 hearts of health."
+        description: "The user’s health is limited to nine hearts, presenting a disadvantage compared to the standard ten hearts, making them more vulnerable to damage and reducing their overall durability in combat or hazardous situations."
 
       good_jumper:
         title: "Good jumper"
-        description: "You can jump higher while sprinting."
+        description: "The user has exceptional jumping abilities, capable of leaping higher and farther than average, granting them enhanced mobility and the capability to navigate obstacles or reach elevated areas with ease."
 
       nocturnal:
         title: "Nocturnal"
-        description: "You have natural night vision."
+        description: "The user’s Nocturnal ability primarily enhances their night vision, granting improved sight and perception in low-light conditions, aiding them in darkness-related tasks without significantly impacting other abilities or attributes."
 
       catlike_appearance:
         title: "Catlike Appearance"
-        description: "Creepers are scared of you."
+        description: "The user’s catlike appearance has an unsettling effect on creepers, causing them to become frightened or agitated in the user’s presence, potentially making creepers avoid or flee from the user, providing an advantage in dealing with these explosive mobs."
 
       velvet_paws:
         title: "Velvet Paws"
-        description: "Your footsteps don't cause any vibrations."
+        description: "The user’s velvet paws enable them to move without making any sound from their footsteps, granting them exceptional stealth and the ability to move silently, making it difficult for others to detect their presence or track their movements based on sound."
 
       acrobatics:
         title: "Acrobatics"
-        description: "You never take fall damage."
+        description: "The user possesses exceptional acrobatic skills, allowing them to land gracefully from any height without suffering any damage, giving them the freedom to leap from great heights or make daring maneuvers without the fear of injury upon impact."
 
       strong_ankles:
         title: "Strong Ankles"
-        description: "You are able to jump higher by jumping while sprinting."
+        description: "The user’s strong ankles provide increased jumping ability, enabling them to leap higher than average, granting them enhanced vertical mobility and the capability to reach elevated spots or navigate obstacles with greater ease."
 
 
   expanded:
     starborne:
       starbeam:
         title: "Starbeam"
-        description: "You can blast a star beam every 30 seconds, dealing 10 damage."
+        description: "The user harnesses the power of Starbeam, allowing them to emit a focused beam of celestial energy every 30 seconds, dealing 10 damage upon impact, providing a ranged offensive attack with periodic usability."
 
       shooting_star:
         title: "Shooting Star"
-        description: "You can fling yourself into the air after a 5 second cooldown."
+        description: "The user activates Shooting Star every 5 seconds, propelling themselves into the air upon activation, providing an efficient method for vertical movement or evading threats, with a relatively short cooldown for frequent utilization."
 
       supernova:
         title: "Supernova"
-        description: "All the collected star energy that you have accumulated through your time in the stars needs to go somewhere, So whenever you happen to meet your demise you will explode in a great Supernova."
+        description: "The Supernova ability triggers a catastrophic explosion of celestial energy when the user is defeated, causing significant damage to surrounding foes upon the user’s demise, acting as a final, devastating retaliation upon their death."
 
       cold_vacuum:
         title: "Cold Vacuum"
-        description: "You are used to the coldness of space, so you take double damage from fire."
+        description: "The user, affected by Cold Vacuum, becomes exceptionally vulnerable to fire-based attacks or environments, suffering twice the normal damage from flames, making them highly susceptible to fire-related hazards and increasing their vulnerability to heat-based threats."
 
       stargazer:
         title: "Stargazer"
-        description: "When exposed to the stars, you gain speed and regeneration."
+        description: "The Stargazer ability grants the user increased speed and health regeneration when they are exposed to the stars or the night sky, allowing them to harness the celestial energy for swiftness and healing, providing advantages during nighttime or open-sky situations."
 
       nonviolent:
         title: "Nonviolent"
-        description: "In the great abyss of space, violence is uncommon if you even come across someone in the first place, this results in you having a small chance to be immobilized upon taking damage."
+        description: "With the Nonviolent ability, when the user receives damage, there’s a small chance they become temporarily immobilized, rendering them unable to move or act for a brief period, presenting a risk of vulnerability in combat situations upon sustaining injuries."
 
       starwatcher:
         title: "Starwatcher"
-        description: "When not exposed to the stars, you get a little sad and will move a bit slower."
+        description: " As a Star Watcher, the user feels melancholic and experiences reduced movement speed when not exposed to stars or the night sky, feeling a sense of sadness or discomfort in environments lacking celestial visibility, causing them to move more slowly in such conditions."
 
     allay:
       little_fairy:
         title: "Little Fairy"
-        description: "You have small wings, you can fly and float."
+        description: "The user, possessing small wings akin to a fairy’s, gains the ability to fly and float, allowing them to maneuver through the air with grace and hover for short periods, providing aerial mobility and an advantage in navigating obstacles or evading ground-based threats."
 
       blue_spirit:
         title: "Blue Spirit"
-        description: "You are semi-translucent, and glow in dark places."
+        description: "The user, embodying the Blue Spirit, gains a semi-translucent appearance, making them somewhat see-through. Additionally, they emit a gentle glow in dark environments, aiding visibility and stealth in low-light conditions while maintaining a spectral-like presence."
 
       sound_of_music:
         title: "Sounds of Music"
-        description: "You enjoy the sounds of music, you can use a jukebox as a respawn anchor."
+        description: "With the Sound of Music ability, the user has the unique capability to designate a jukebox as a respawn anchor. When set, respawning in the vicinity of the jukebox becomes possible, granting them a specific respawn point tied to the music emanating from this device."
 
       cookies:
         title: "COOKIES"
-        description: "Cookies give the same saturation as steak."
+        description: " With the COOKIES ability, the user possesses the unique power to transform cookies directly into steak, allowing them to convert cookies into a more substantial food source, providing sustenance and nutrition akin to steak when consumed."
 
       treasure_finder:
         title: "Treasure Finder"
-        description: "You have increased chances of getting treasure loot, and villagers will lower their prices for you."
+        description: "The Treasure Hunter ability bestows upon the user the knack for finding superior treasure loot, increasing the quality of discovered treasures and rare items. Additionally, it influences villagers to offer discounted prices for their goods, making transactions more favorable for the user when interacting with villagers or traders."
 
       kinda_flamable:
         title: "Kinda Flamable"
-        description: "You burn easily, you take extra fire damage, and you have half health."
+        description: "The user, affected by Kinda Flammable, becomes more susceptible to fire-based damage, taking increased harm from flames or fire-related attacks. Additionally, this ability halves the user’s health, making them more fragile and vulnerable to all types of damage, not just fire-related."
 
       friendly_angel:
         title: "Friendly Angel"
-        description: "You don't like to harm animals, you get nauseous when eating meat."
+        description: "The Friendly Angel ability bestows a gentle nature upon the user, causing them to experience nausea or discomfort when consuming meat. This ethical disposition towards animal products may result in a temporary feeling of queasiness whenever the user partakes in meat-based food items."
 
     rabbit:
       leap:
