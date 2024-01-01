@@ -317,94 +317,94 @@ menu:
     rabbit:
       leap:
         title: "Leap"
-        description: "You can leap in the direction you are looking to."
+        description: "The user possesses the ability to execute a powerful leap, enabling them to jump considerable distances or heights in a single bound, providing increased mobility and the capacity to overcome obstacles or evade adversaries with remarkable agility."
 
       strong_hopper:
         title: "Strong Hopper"
-        description: "You can jump significantly higher."
+        description: "With the Strong Hopper ability, the user gains naturally heightened jumping capabilities, allowing them to leap higher than usual in standard movements without needing a specific action or special effort, enhancing their mobility and agility in various situations."
 
       shock_absorption:
         title: "Shock Absorption"
-        description: "You take less fall damage."
+        description: "With Shock Absorption, the user experiences decreased damage from falls, mitigating the impact upon landing and significantly reducing the potential harm caused by descending from heights, allowing for safer descents and minimizing the risk of injury due to falls."
 
       delicious:
         title: "Delicious"
-        description: "You may drop a rabbit's foot when hit."
+        description: "The Delicious ability provides the user with a chance to drop a rabbit’s foot upon being hit. This fortuitous drop occurs intermittently upon receiving damage, granting the possibility of yielding a rabbit’s foot item, which is traditionally associated with good luck and fortune in some contexts."
 
       picky_eater:
         title: "Picky Eater"
-        description: "You can only eat carrots and golden carrots."
+        description: "With the Picky Eater ability, the user’s dietary options become restricted solely to carrots and golden carrots for sustenance. They exclusively consume these food items, relying on their benefits for nourishment, while foregoing other food sources, potentially limiting their overall diet and meal variety."
 
       fragile:
         title: "Fragile"
-        description: "You have 3 less hearts."
+        description: "The Fragile ability diminishes the user’s overall health, resulting in a reduction of 3 hearts compared to the standard health pool. This decreased maximum health makes the user more vulnerable to damage, requiring extra caution and strategic planning in combat situations to avoid being overpowered by adversaries."
 
     bee:
       featherweight:
         title: "Featherweight"
-        description: "You fall as gently to the ground as a feather would unless you shift."
+        description: "With the Featherweight ability, the user descends gracefully to the ground, landing softly without taking fall damage. By default, they descend slowly, but when sneaking, they can control their descent speed, enabling a more controlled and silent landing without compromising on agility or speed."
 
       poisonous:
         title: "Poisonous"
-        description: "Hitting someone gives them poison for 2 seconds."
+        description: "The Poisonous ability grants the user the power to inflict a short-term poison effect lasting 2 seconds upon striking an opponent. This effect can temporarily afflict the target, causing damage over time and creating a strategic advantage during combat engagements."
 
       bloom:
         title: "Bloom"
-        description: "You gain regeneration when near flowers."
+        description: "With the Bloom ability, the user experiences natural regeneration when in close proximity to flowers. The presence of flowers grants them a restorative effect, allowing them to regain health gradually, providing a boon when surrounded by floral environments."
 
       flight:
         title: "Flight"
-        description: "You can fly, just like a bee!(WHATT)."
+        description: "The Flight ability grants the user the power of aerial mobility, enabling them to soar through the skies at will, effortlessly navigating across landscapes, evading threats, and exploring areas that are otherwise inaccessible to those confined to the ground."
 
       nighttime:
         title: "Nighttime"
-        description: "You are sleepy at night, so you walk and fly slower."
+        description: " During nighttime, the user experiences drowsiness, resulting in slower walking and flying speeds compared to their usual pace. This nighttime sluggishness affects their mobility, requiring extra effort to move efficiently until the night passes."
 
       lifespan:
         title: "Lifespan"
-        description: "You have 3 less hearts."
+        description: "The Lifespan ability shortens the user’s overall health, resulting in a reduction of 3 hearts compared to the standard health pool. This diminished health capacity makes the user more susceptible to damage, necessitating caution and strategic combat maneuvers to avoid being overwhelmed by adversaries.
 
       rain:
         title: "Rain"
-        description: "You cannot fly when in the rain and are weaker while wet."
+        description: "The Rain ability restricts the user from flying during rainy weather conditions. Moreover, when the user gets wet, they experience reduced effectiveness or weakened abilities, making them more vulnerable until they dry off, requiring shelter or time to regain their full strength."
 
     piglin:
       shiny:
         title: "I like to be SHINY"
-        description: "Golden tools deal extra damage and gold armour has more protection."
+        description: "With the “I like to be shiny” ability, the user gains proficiency with gold tools and armor, enhancing their effectiveness beyond their typical utility. Gold tools and armor exhibit increased durability and efficiency, providing better performance compared to standard equipment, granting a unique advantage when using items crafted from gold."
 
       friendly_frenemies:
         title: "Friendly Frenemies"
-        description: "Piglins won't attack you unless provoked, Brutes will still attack on sight."
+        description: "With the Friendly Frenemies ability, piglins won’t attack the user unless provoked, fostering a non-hostile relationship with standard piglins. However, this peace treaty doesn’t extend to piglin brutes, who will remain aggressive and hostile towards the user."
 
       nether_dweller:
         title: "Nether Dweller"
-        description: "Your natural spawn is in the Nether and you can only eat meat."
+        description: "The Nether Dweller ability causes the user to spawn directly within the Nether, providing them with an immediate presence in this fiery and dangerous realm, skipping the traditional Overworld spawn point and starting their journey directly within the Nether’s challenging environment."
 
       colder_realms:
         title: "Colder Realms"
-        description: "When outside of the Nether, you zombify and become immune to fire and slower."
+        description: "The Colder Realms ability grants the user immunity to fire damage when outside the Nether, providing protection against flames. However, this comes at the cost of reduced movement speed in non-Nether environments, requiring more time to traverse distances compared to others but ensuring safety from fiery threats."
 
       blue_spooky:
         title: "BLUE FIRE SPOOKY"
-        description: "You are afraid of soul fire, becoming weak when near it."
+        description: "The Blue Fire Spooky ability causes the user to experience fear and weakness in the vicinity of soul fire. When near soul fire, the user becomes apprehensive, experiencing a decrease in their strength or effectiveness, making them vulnerable or uneasy in the presence of this particular type of fire."
 
     sculk:
       one_of_them:
         title: "One of Them"
-        description: "You spawn in the Deep Dark."
+        description: " The One of Them ability causes the user to spawn exclusively within the Deep Dark biome. This biome, known for its darkness and unique resources, becomes the starting point for the user’s adventure, offering distinct challenges and opportunities found only within the Deep Dark biome.
 
       amongst_people:
         title: "Amongst Your People"
-        description: "You get buffs while near sculk blocks."
+        description: " With the Amongst Your People ability, the user gains buffs or enhanced capabilities when in proximity to sculk blocks. These unique blocks amplify the user’s strengths, granting them advantages or augmenting their abilities while they are close to or interacting with sculk-related elements."
 
       besties_forever:
         title: "Best Friends Forever"
-        description: "The Warden wont attack you, and you don't trigger Sculk Shriekers."
+        description: "The Best Friends Forever ability establishes a peaceful relationship with Wardens, preventing them from attacking the user, fostering a non-hostile environment around these formidable creatures. Additionally, the user cannot trigger sculk shriekers, avoiding their detection or activation, ensuring stealth and quiet movement around these sculk-based entities."
 
       afraid_of_light:
         title: "Afraid of the Light"
-        description: "You are weaker while in sunlight."
+        description: " The Afraid of the Light ability causes the user to experience weakness when exposed to sunlight. Under the sun’s rays, the user becomes less effective or experiences reduced abilities, requiring them to seek shade or take precautions to avoid prolonged exposure to sunlight."
 
       it_grows:
         title: "It Grows"
